@@ -1,0 +1,28 @@
+Education
+Need more help? Want to talk to professionals? Enroll in our mentorship program!
+
+Intro to programming
+-with Python
+-with JavaScript
+-with Miranda
+-with C
+The Intro to Programming classes provide quick paths to the world of programming, introducing broad concepts, advice on setting up environments, and getting students comfortable writing code.
+
+Programming Deep Dives
+-into Python
+-into JavaScript
+-into Miranda
+-into C / C++
+-into R
+-into C#
+Deep dives provide specific discussions of languages, including typical design patterns and implementation details. It is recommended that a student takes at least one of the intro courses before starting a Deep Dive.
+
+Web Development
+-JavaScript
+-html/css
+-React
+-Node
+-Django
+-Dotnet Core
+-SQL
+The web development series teaches students the technical and ethical sides of being a web developer. 
